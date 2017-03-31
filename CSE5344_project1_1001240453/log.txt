@@ -1,0 +1,3381 @@
+HTTP Request Message:
+GET http://www.google.com/ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+HTTP/1.1 200 OK
+Server:gws
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Sat, 02 Apr 2016 03:01:30 GMT
+Accept-Ranges:none
+X-Frame-Options:SAMEORIGIN
+Cache-Control:private, max-age=0
+Vary:Accept-Encoding
+Set-Cookie:NID=78=HBT_lkFjZQdCXPt2NhY-O5rsjRnDy8-Kk_bCFRgCq9JfeddyHWRLyG91pgPW6fPq6DNcvLRw9w5kLXHlcV8cHTbagaAn3eok74skEJGfcFqnuZhwvzyquUa7LRHE40uQQcuBsbrz4CYfKw; expires=Sun, 02-Oct-2016 03:01:30 GMT; path=/; domain=.google.com; HttpOnly
+Expires:-1
+X-XSS-Protection:1; mode=block
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/icons/product/chrome-48.png HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Cache-Control:public, max-age=691200
+Server:sffe
+X-Content-Type-Options:nosniff
+Last-Modified:Mon, 02 Apr 2012 02:13:37 GMT
+Expires:Fri, 08 Apr 2016 13:09:21 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:1834
+Age:136329
+Date:Thu, 31 Mar 2016 13:09:21 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/xjs/_/js/k=xjs.hp.en_US.JYNNhRR1vUI.O/m=sb_he,d/rt=j/d=1/t=zcms/rs=ACT90oGKeyuixW2vug5z6_hvD7hYKD06QA HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+HTTP/1.1 200 OK
+Server:sffe
+X-Content-Type-Options:nosniff
+Last-Modified:Wed, 30 Mar 2016 17:29:10 GMT
+Date:Wed, 30 Mar 2016 18:29:28 GMT
+Accept-Ranges:none
+Cache-Control:public, max-age=31536000
+Vary:Accept-Encoding
+Expires:Thu, 30 Mar 2017 18:29:28 GMT
+X-XSS-Protection:1; mode=block
+Age:203522
+Content-Type:text/javascript; charset=UTF-8
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Server:sffe
+Cache-Control:private, max-age=31536000
+X-Content-Type-Options:nosniff
+Last-Modified:Thu, 03 Sep 2015 02:05:27 GMT
+Expires:Sat, 02 Apr 2016 03:01:30 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:5482
+Date:Sat, 02 Apr 2016 03:01:30 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/nav_logo229.png HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Server:sffe
+Cache-Control:private, max-age=31536000
+X-Content-Type-Options:nosniff
+Last-Modified:Thu, 03 Sep 2015 20:37:18 GMT
+Expires:Sat, 02 Apr 2016 03:01:30 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:17284
+Date:Sat, 02 Apr 2016 03:01:30 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1536&bih=754&ei=Cjb_Vt3wEce5eImTt6AC HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=78=m7pbAbyLImRy7OEYn1lUo2SQuHYNOqAD4gZNETxz5BKdgSyS5e5-KfTnCYHsMsS6OdkS8ubvsrOztJ8slG5rR1Iel7LH7MxHl5KdvymUL-zUlZyMozD4EFlVX1BpGDZ0; expires=Sun, 02-Oct-2016 03:01:30 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Sat, 02 Apr 2016 03:01:30 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://clients1.google.com/generate_204 HTTP/1.1
+Host: clients1.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 204 No Content
+Content-Length:0
+Date:Sat, 02 Apr 2016 03:01:31 GMT
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/nav_logo229.png HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Server:sffe
+Cache-Control:private, max-age=31536000
+X-Content-Type-Options:nosniff
+Last-Modified:Thu, 03 Sep 2015 20:37:18 GMT
+Expires:Sat, 02 Apr 2016 03:01:31 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:17284
+Date:Sat, 02 Apr 2016 03:01:31 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.sreedhar.com/ HTTP/1.1
+Host: www.sreedhar.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 403 Forbidden
+Server:nginx/1.8.1
+Connection:keep-alive
+Content-Length:387
+Date:Sat, 02 Apr 2016 03:03:28 GMT
+Content-Type:text/html; charset=iso-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+POST http://ocsp.digicert.com/ HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Length: 83
+Content-Type: application/ocsp-request
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+X-Cache:HIT
+Server:ECS (dfw/27FD)
+Etag:"4e35dea6-5"
+Cache-Control:no-cache
+Last-Modified:Sun, 31 Jul 2011 23:00:54 GMT
+Expires:Fri, 08 Apr 2016 15:03:56 GMT
+Content-Length:5
+Date:Sat, 02 Apr 2016 03:03:56 GMT
+Content-Type:application/ocsp-response
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/ HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+HTTP/1.1 200 OK
+Server:Apache
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!+pCNv8/IJJSnz3fkshTA+5ziHeqN/t3d0KFcUGtp0H/Y3uwUSeP+HGbbKoh8Pm+dlIT6o441xYG0bg==; path=/
+Content-Length:29156
+Date:Sat, 02 Apr 2016 03:53:17 GMT
+Content-Type:text/html
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/_css/home/base.css?v=20160120 HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=99
+HTTP/1.1 404 Not Found
+Server:Apache
+Connection:Keep-Alive
+Content-Length:10810
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:text/html
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/js-lib/jquery/jquery-1.8.2.min.js HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"1afcc1e-16cfb-4cdc646ddc3c0"
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!YuUGaRN4bFrJYx/kshTA+5ziHeqN/lyxYnGfR1DV1Z4NHVrmh6SSaKZruSSS3GaalTOAB+t75VqPFQ==; path=/
+Last-Modified:Mon, 05 Nov 2012 21:36:23 GMT
+Content-Length:93435
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:text/javascript
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://fast.fonts.net/cssapi/12cf0e19-c15a-47b7-a21d-dafe1c696cb3.css HTTP/1.1
+Host: fast.fonts.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+X-Cache:HIT
+Server:ECS (ftw/FB8D)
+Etag:"4140010845+gzip+ident"
+Cache-Control:max-age=604800
+Access-Control-Allow-Origin:*
+Vary:Accept-Encoding
+Last-Modified:Thu, 22 May 2014 14:40:03 GMT
+Expires:Sat, 09 Apr 2016 03:53:20 GMT
+Content-Length:3567
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:text/css
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://fast.fonts.net/t/1.css?apiType=css&projectid=12cf0e19-c15a-47b7-a21d-dafe1c696cb3 HTTP/1.1
+Host: fast.fonts.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://fast.fonts.net/cssapi/12cf0e19-c15a-47b7-a21d-dafe1c696cb3.css
+Connection: keep-alive
+If-Modified-Since: Mon, 25 Jul 2011 12:46:22 GMT
+If-None-Match: "1685107488"
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+X-Cache:HIT
+Server:ECS (ftw/FBA7)
+Etag:"1685107488"
+Cache-Control:max-age=0
+Access-Control-Allow-Origin:*
+Last-Modified:Mon, 25 Jul 2011 12:46:22 GMT
+Expires:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Length:0
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:text/css
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://fonts.googleapis.com/css?family=Roboto:400,700italic,700 HTTP/1.1
+Host: fonts.googleapis.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+HTTP/1.1 200 OK
+Server:GSE
+Access-Control-Allow-Origin:*
+X-Content-Type-Options:nosniff
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Accept-Ranges:none
+X-Frame-Options:SAMEORIGIN
+Cache-Control:private, max-age=86400
+Timing-Allow-Origin:*
+Vary:Accept-Encoding
+Expires:Sat, 02 Apr 2016 03:53:20 GMT
+X-XSS-Protection:1; mode=block
+Content-Type:text/css; charset=utf-8
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/_js/main.min.js HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+HTTP/1.1 404 Not Found
+Server:Apache
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!VUUs5+pStrD3+N3kshTA+5ziHeqN/ofy8nWfTO7fhEIIwD0YuSphgSIggzp++yrSQjAeDi7Bl2y8wA==; path=/
+Content-Length:10810
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:text/html
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/_css/home/enhanced.css?v=20160120 HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+HTTP/1.1 404 Not Found
+Server:Apache
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!xkzCB6l5NFdflMHkshTA+5ziHeqN/khsB+O5Tlk6EpK0mKmeiMLFe/nOKM3lqkBJhL5WJOxehfErCQ==; path=/
+Content-Length:10810
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:text/html
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google-analytics.com/ga.js HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+Accept-Ranges:none
+HTTP/1.1 200 OK
+Cache-Control:public, max-age=7200
+Server:Golfe2
+X-Content-Type-Options:nosniff
+Vary:Accept-Encoding
+Last-Modified:Mon, 28 Mar 2016 20:26:56 GMT
+Expires:Sat, 02 Apr 2016 05:28:11 GMT
+Age:1509
+Date:Sat, 02 Apr 2016 03:28:11 GMT
+Content-Type:text/javascript
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/news/_images/in-the-news/2016/digitizing-anger-tn.jpg HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"1cfa0ce-26e1-52f73be4cc500"
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!beapOirm3Q8GU4fkshTA+5ziHeqN/vCzqIiiTfkn2xWLcdnz+dNAqc51jgc5kux3sHMW28vFTk92UA==; path=/
+Last-Modified:Fri, 01 Apr 2016 22:17:24 GMT
+Content-Length:9953
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://img.youtube.com/vi/AnsfR2969Y4/mqdefault.jpg HTTP/1.1
+Host: img.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: VISITOR_INFO1_LIVE=MCOJDp0PrO4; PREF=f5=30&f4=4000000
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Cache-Control:public, max-age=7200
+Server:sffe
+ETag:"1457559630"
+X-Content-Type-Options:nosniff
+Expires:Sat, 02 Apr 2016 04:30:45 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:11437
+Age:4955
+Date:Sat, 02 Apr 2016 02:30:45 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/news/_images/releases/2016/thumbnails/haykowsky-moritz-tn.png HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"1d10088-98ae-52f5cdebd5500"
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!brE376OOM2CtTCjkshTA+5ziHeqN/m693DxsdQDzYPgcbkNTRKge4AQpQX0f7isgDmOYUEcnPxb9oQ==; path=/
+Last-Modified:Thu, 31 Mar 2016 19:00:04 GMT
+Content-Length:39086
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/news/_images/releases/2016/thumbnails/Heather-Jacobson-tn.jpg HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"1d10087-2612-52f36778caa00"
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!HOYQJZY+onRQBs7kshTA+5ziHeqN/mD5Js6dznO5KANgdRwLVTKFG5jWS1u5NMTsM0nBEAb59ihzaQ==; path=/
+Last-Modified:Tue, 29 Mar 2016 21:11:04 GMT
+Content-Length:9746
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://grfx.cstv.com/photos/schools/txar/sports/c-track/auto_action/11831877.jpeg HTTP/1.1
+Host: grfx.cstv.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:nginx/1.8.0
+ETag:"56fdea66-b807"
+Access-Control-Allow-Credentials:true
+Connection:keep-alive
+Last-Modified:Fri, 01 Apr 2016 03:26:30 GMT
+Content-Length:47111
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/news/_images/releases/2016/thumbnails/paul%20fadel%202016-tn.jpg HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"1d70043-a4d1-52f71ca378780"
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!w+/FjbBqEaYRk/fkshTA+5ziHeqN/oCVv296TrlBEyA/8z8lPA7ktJrZIsYaeEKpYxkB1ij4RRX4Fw==; path=/
+Last-Modified:Fri, 01 Apr 2016 19:57:34 GMT
+Content-Length:42193
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/news/_images/releases/2014/thumbnails/grad-2014-image-tn.jpg HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"2c80120-2f2e-4fdde371c2100"
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!ZeZboZm7vnI4giLkshTA+5ziHeqN/vjuSt8nIDr1VBKzvi0e/5hwvgj2eXkovUX+pTobPH8WcTeVvQ==; path=/
+Last-Modified:Thu, 10 Jul 2014 22:19:16 GMT
+Content-Length:12078
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://pubads.g.doubleclick.net/activity;dc_iu=/4155/Retargeting;rtg=cmuta;ord=1? HTTP/1.1
+Host: pubads.g.doubleclick.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: id=22a4a26d2a0400f3||t=1446618619|et=730|cs=002213fd4887f939c1b9830775; IDE=AHWqTUmyCjK6cb-hlMojNCNsDJEDvISdb_Z_Z0de7vHOD0hGsIyekVUVKg
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Server:cafe
+Cache-Control:no-cache, must-revalidate
+X-Content-Type-Options:nosniff
+Set-Cookie:test_cookie=CheckForPermission; expires=Sat, 02-Apr-2016 04:08:20 GMT; path=/; domain=.doubleclick.net
+Expires:Fri, 01 Jan 1990 00:00:00 GMT
+Pragma:no-cache
+X-XSS-Protection:1; mode=block
+Content-Length:42
+P3P:policyref="http://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:image/gif
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/_templates/_images/uta-logo-print.gif HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"928147-1308-4fc87ae3f2140"
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!9Kqr4iq5Y7IXTa7kshTA+5ziHeqN/oIKAvK5J5ZxKamn0GCKuBSUPm6gQEA/zb0AfI/xYK7UddUTrg==; path=/
+Last-Modified:Mon, 23 Jun 2014 21:39:41 GMT
+Content-Length:4872
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:image/gif
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/uta/_images/explore/2015/strategic-plan-explore.jpg HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"24f81eb-3774-52188e9109440"
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!8dMzizgRUymE6xTkshTA+5ziHeqN/uHIaAbFn+8kP16r5Iozb9u0tUSeJCNON8vT124aralD6wMMQQ==; path=/
+Last-Modified:Wed, 07 Oct 2015 19:39:53 GMT
+Content-Length:14196
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/_images/elements/utalogo.png HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+HTTP/1.1 404 Not Found
+Server:Apache
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!NIbJZ8UL6PpyktfkshTA+5ziHeqN/mw1qwBlBSV5x3wAQRLQRSwOE85xxajMmnUtgrxRiKL0dFDidg==; path=/
+Content-Length:10810
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:text/html
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/uta/_images/explore/2016/60x30-285x151.jpg HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"24561b5-3f9a-52c245995fd40"
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!+2yRa6XUtG0Y5bfkshTA+5ziHeqN/ou3tnsylMjdGn56R61FTF/DDc2BV6A3gpHTT+pQy+B1S/+fYA==; path=/
+Last-Modified:Fri, 19 Feb 2016 19:18:37 GMT
+Content-Length:16282
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/uta/_images/explore/youtube-button.png HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"201a0e6-cf3-4f9c0bc8962c0"
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!xViU5jVX8B80t4fkshTA+5ziHeqN/jTyEhgBhtHurr0x6cQY5fQ6Dy9Gi5HfuTjLn67w3ebYKkOi3g==; path=/
+Last-Modified:Mon, 19 May 2014 13:28:19 GMT
+Content-Length:3315
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/uta/_images/home-blobs/3-up/utamag-winter-2016.jpg HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=98
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"24060c7-5e26-52b95bd345c00"
+Connection:Keep-Alive
+Last-Modified:Fri, 12 Feb 2016 17:10:08 GMT
+Content-Length:24102
+Date:Sat, 02 Apr 2016 03:53:21 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/uta/t.gif HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=99
+HTTP/1.1 200 OK
+Cache-Control:post-check=0, pre-check=0
+no-store, no-cache, must-revalidate
+Server:Apache
+Connection:Keep-Alive
+Pragma:no-cache
+Last-Modified:Sat, 02 Apr 2016 03:53:21 GMT
+Expires:Mon, 26 Jul 1997 05:00:00 GMT
+Content-Length:0
+Date:Sat, 02 Apr 2016 03:53:21 GMT
+Content-Type:image/gif
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://img.youtube.com/vi/4Ck7wch1yE0/mqdefault.jpg HTTP/1.1
+Host: img.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: VISITOR_INFO1_LIVE=MCOJDp0PrO4; PREF=f5=30&f4=4000000
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Cache-Control:public, max-age=7200
+Server:sffe
+ETag:"1457041426"
+X-Content-Type-Options:nosniff
+Expires:Sat, 02 Apr 2016 04:40:49 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:11084
+Age:4352
+Date:Sat, 02 Apr 2016 02:40:49 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://img.youtube.com/vi/oMEfyiEIUqs/mqdefault.jpg HTTP/1.1
+Host: img.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: VISITOR_INFO1_LIVE=MCOJDp0PrO4; PREF=f5=30&f4=4000000
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Cache-Control:public, max-age=7200
+Server:sffe
+ETag:"1459177657"
+X-Content-Type-Options:nosniff
+Expires:Sat, 02 Apr 2016 05:24:18 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:13407
+Age:1743
+Date:Sat, 02 Apr 2016 03:24:18 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://img.youtube.com/vi/agAxJSQNhDM/mqdefault.jpg HTTP/1.1
+Host: img.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: VISITOR_INFO1_LIVE=MCOJDp0PrO4; PREF=f5=30&f4=4000000
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Cache-Control:public, max-age=7200
+Server:sffe
+ETag:"1455139439"
+X-Content-Type-Options:nosniff
+Expires:Sat, 02 Apr 2016 05:01:33 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:13835
+Age:3108
+Date:Sat, 02 Apr 2016 03:01:33 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/uta/_images/explore/2016/center-of-excellence-805x453.jpg HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=100
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"2c16055-29a2f-52f5d15dfb640"
+Connection:Keep-Alive
+Set-Cookie:nommanommanomma=!/5cEGxXtbuLOFxXkshTA+5ziHeqN/u/iNDKeoNSQ518ou7pXR+SUgePY2Y72bqHJK7XJsRyLcQSQGg==; path=/
+Last-Modified:Thu, 31 Mar 2016 19:15:29 GMT
+Content-Length:170543
+Date:Sat, 02 Apr 2016 03:53:20 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google-analytics.com/r/__utm.gif?utmwv=5.6.7&utms=1&utmn=1276299047&utmhn=www.uta.edu&utmcs=UTF-8&utmsr=1536x864&utmvp=1519x754&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=-&utmdt=The%20University%20of%20Texas%20at%20Arlington%20-%20UT%20Arlington%20-%20UTA&utmhid=820497324&utmr=-&utmp=%2F&utmht=1459569204798&utmac=UA-297365-15&utmcc=__utma%3D52559212.105370727.1446497649.1459553328.1459569205.4%3B%2B__utmz%3D52559212.1446497649.1.1.utmcsr%3Dyahoo%7Cutmccn%3D(organic)%7Cutmcmd%3Dorganic%7Cutmctr%3D(not%2520provided)%3B&utmjid=606471162&utmredir=1&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Server:Golfe2
+Cache-Control:no-cache, no-store, must-revalidate
+Access-Control-Allow-Origin:*
+X-Content-Type-Options:nosniff
+Last-Modified:Sun, 17 May 1998 03:00:00 GMT
+Expires:Fri, 01 Jan 1990 00:00:00 GMT
+Pragma:no-cache
+Content-Length:35
+Date:Sat, 02 Apr 2016 03:53:21 GMT
+Content-Type:image/gif
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/uta/_images/home-blobs/3-up/visit-uta.jpg HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=99
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"23fa214-8e61-50c77ce19eb80"
+Connection:Keep-Alive
+Last-Modified:Mon, 12 Jan 2015 17:26:22 GMT
+Content-Length:36449
+Date:Sat, 02 Apr 2016 03:53:21 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://img.youtube.com/vi/MyagUM4hPbY/mqdefault.jpg HTTP/1.1
+Host: img.youtube.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: VISITOR_INFO1_LIVE=MCOJDp0PrO4; PREF=f5=30&f4=4000000
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Cache-Control:public, max-age=7200
+Server:sffe
+ETag:"1459173075"
+X-Content-Type-Options:nosniff
+Expires:Sat, 02 Apr 2016 05:36:19 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:20816
+Age:1022
+Date:Sat, 02 Apr 2016 03:36:19 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/uta/_images/home-blobs/3-up/magazine-health-2016.jpg HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=99
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Server:Apache
+ETag:"23fa12a-e44b-52f32de1f0b40"
+Connection:Keep-Alive
+Last-Modified:Tue, 29 Mar 2016 16:53:25 GMT
+Content-Length:58443
+Date:Sat, 02 Apr 2016 03:53:21 GMT
+Content-Type:image/jpeg
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.uta.edu/uta/t.gif HTTP/1.1
+Host: www.uta.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.uta.edu/
+Cookie: __utma=52559212.105370727.1446497649.1459406466.1459553328.3; __utmz=52559212.1446497649.1.1.utmcsr=yahoo|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmc=52559212
+Connection: keep-alive
+
+HTTP Response Meassage:
+Keep-Alive:timeout=3, max=99
+HTTP/1.1 200 OK
+Cache-Control:post-check=0, pre-check=0
+no-store, no-cache, must-revalidate
+Server:Apache
+Connection:Keep-Alive
+Pragma:no-cache
+Last-Modified:Sat, 02 Apr 2016 03:53:21 GMT
+Expires:Mon, 26 Jul 1997 05:00:00 GMT
+Content-Length:0
+Date:Sat, 02 Apr 2016 03:53:21 GMT
+Content-Type:image/gif
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/ HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Content-Location:Home.html
+Last-Modified:Fri, 01 Apr 2016 17:50:12 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:06 GMT
+Accept-Ranges:bytes
+Cache-Control:max-age=600
+ETag:"a10a-52f7002b7dd00;89-3f26bd17a2f00"
+Vary:negotiate,accept,upgrade-insecure-requests
+Expires:Sat, 02 Apr 2016 04:08:06 GMT
+Content-Length:41226
+TCN:choice
+Content-Type:text/html; charset=utf-8
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/css/minimum HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+HTTP/1.1 200 OK
+Cache-Control:max-age=604800
+ETag:"dcc-52c5d9db4b640;4a2db2863a880"
+Content-Location:minimum.css.gz
+Vary:negotiate,accept-encoding,upgrade-insecure-requests
+Expires:Tue, 05 Apr 2016 15:49:31 GMT
+Last-Modified:Mon, 22 Feb 2016 15:37:53 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:07 GMT
+TCN:choice
+Content-Type:text/css;charset=utf-8
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/css/advanced HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+HTTP/1.1 200 OK
+Cache-Control:max-age=604800
+ETag:"1686-52c5d9db4b640;4a2db2863a880"
+Content-Location:advanced.css.gz
+Vary:negotiate,accept-encoding,upgrade-insecure-requests
+Expires:Tue, 05 Apr 2016 15:49:31 GMT
+Last-Modified:Mon, 22 Feb 2016 15:37:53 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:07 GMT
+TCN:choice
+Content-Type:text/css;charset=utf-8
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/css/print HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+HTTP/1.1 200 OK
+Cache-Control:max-age=604800
+ETag:"41b-51333b1c08f80;4a2db2863a880"
+Content-Location:print.css.gz
+Vary:negotiate,accept-encoding,upgrade-insecure-requests
+Expires:Tue, 05 Apr 2016 15:49:33 GMT
+Last-Modified:Wed, 08 Apr 2015 10:07:10 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:07 GMT
+TCN:choice
+Content-Type:text/css;charset=utf-8
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/js/main HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+HTTP/1.1 200 OK
+Cache-Control:max-age=604800
+ETag:"768c-517adfb73bac0;4a2daeaa38d80"
+Content-Location:main.js.gz
+Vary:negotiate,accept,accept-encoding,upgrade-insecure-requests
+Expires:Tue, 05 Apr 2016 15:50:46 GMT
+Last-Modified:Thu, 04 Jun 2015 09:41:39 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:07 GMT
+TCN:choice
+Content-Type:text/javascript
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/favicon.ico HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=31536000
+ETag:"1976-4de23364bc6c0"
+Vary:upgrade-insecure-requests
+Expires:Wed, 29 Mar 2017 15:49:22 GMT
+Last-Modified:Sun, 02 Jun 2013 03:12:03 GMT
+Content-Length:6518
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:07 GMT
+Content-Type:image/vnd.microsoft.icon
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/css/realprint.css HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/print
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=604800
+ETag:"d7-48a3ece255080"
+Vary:upgrade-insecure-requests
+Expires:Tue, 05 Apr 2016 15:49:22 GMT
+Last-Modified:Wed, 30 Jun 2010 12:50:58 GMT
+Content-Length:215
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:07 GMT
+Content-Type:text/css; charset=utf-8
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/favicon.ico HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=31536000
+ETag:"1976-4de23364bc6c0"
+Vary:upgrade-insecure-requests
+Expires:Wed, 29 Mar 2017 15:49:22 GMT
+Last-Modified:Sun, 02 Jun 2013 03:12:03 GMT
+Content-Length:6518
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:07 GMT
+Content-Type:image/vnd.microsoft.icon
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/w3devcampus.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"206b-4f7c0fc543080"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:32 GMT
+Last-Modified:Thu, 24 Apr 2014 02:55:46 GMT
+Content-Length:8299
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:07 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/ttwf-dinos.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"1b96-4f7c0f14d5040"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:32 GMT
+Last-Modified:Thu, 24 Apr 2014 02:52:41 GMT
+Content-Length:7062
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:07 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2015/10/W3C-Developers_Assets/W3C-Developers-Dark.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"2d4a-52326859de440"
+Vary:upgrade-insecure-requests
+Expires:Mon, 02 May 2016 03:58:07 GMT
+Last-Modified:Wed, 28 Oct 2015 09:07:21 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Content-Length:11594
+Date:Sat, 02 Apr 2016 03:58:07 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/Twitter_bird_logo_2012.svg HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"54e-51e4b4d035dc0"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:32 GMT
+Last-Modified:Thu, 27 Aug 2015 13:54:07 GMT
+Content-Length:1358
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:07 GMT
+Content-Type:image/svg+xml; qs=0.85
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2015/04/w3cx-home.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"1594-512c7a904a8c0"
+Vary:upgrade-insecure-requests
+Expires:Mon, 02 May 2016 03:58:07 GMT
+Last-Modified:Fri, 03 Apr 2015 01:13:47 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Content-Length:5524
+Date:Sat, 02 Apr 2016 03:58:07 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/icons/rss30 HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Content-Location:rss30.gif
+Last-Modified:Tue, 18 May 2010 02:39:43 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Accept-Ranges:bytes
+Cache-Control:max-age=2592000
+ETag:"4c6-486d540f819c0;50e5f7204fca9"
+Vary:negotiate,accept,upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 16:40:32 GMT
+Content-Length:1222
+TCN:choice
+Content-Type:image/gif; qs=0.5
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/page/page_bkg.jpg HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/advanced
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"1a1-47e227245af80"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:32 GMT
+Last-Modified:Wed, 27 Jan 2010 09:58:38 GMT
+Content-Length:417
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/jpeg; qs=0.8
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/icons/atom30 HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Content-Location:atom30.gif
+Last-Modified:Tue, 18 May 2010 02:39:43 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Accept-Ranges:bytes
+Cache-Control:max-age=2592000
+ETag:"4c8-486d540f819c0;50e5f7204fca9"
+Vary:negotiate,accept,upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 16:40:32 GMT
+Content-Length:1224
+TCN:choice
+Content-Type:image/gif; qs=0.5
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/google HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/minimum
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Content-Location:google.gif
+Last-Modified:Thu, 19 Feb 2009 15:16:40 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Accept-Ranges:bytes
+Cache-Control:max-age=2592000
+ETag:"4c3-4634705eba600;526efa6638f8f"
+Vary:negotiate,upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:29 GMT
+Content-Length:1219
+TCN:choice
+Content-Type:image/gif; qs=0.5
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/category-bg-fold.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/advanced
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"ce-485114b0e28c0"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:32 GMT
+Last-Modified:Sun, 25 Apr 2010 15:27:07 GMT
+Content-Length:206
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/skip.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/advanced
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"b5-485114b0e28c0"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:33 GMT
+Last-Modified:Sun, 25 Apr 2010 15:27:07 GMT
+Content-Length:181
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2014/10/stdvidthumb.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"e9b2-506823cbba980"
+Vary:upgrade-insecure-requests
+Expires:Mon, 02 May 2016 03:58:08 GMT
+Last-Modified:Tue, 28 Oct 2014 21:21:58 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Content-Length:59826
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/ico-plus HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Content-Location:ico-plus.gif
+Last-Modified:Wed, 01 Apr 2009 19:46:24 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Accept-Ranges:bytes
+Cache-Control:max-age=2592000
+ETag:"d1-46683920e4400;526efa6638f8f"
+Vary:negotiate,upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:34 GMT
+Content-Length:209
+TCN:choice
+Content-Type:image/gif; qs=0.5
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/logo-w3c-mobile-lg HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Content-Location:logo-w3c-mobile-lg.gif
+Last-Modified:Fri, 28 Aug 2009 14:25:07 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Accept-Ranges:bytes
+Cache-Control:max-age=2592000
+ETag:"f2a-47234736976c0;526efa6638f8f"
+Vary:negotiate,accept,upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 16:16:12 GMT
+Content-Length:3882
+TCN:choice
+Content-Type:image/gif; qs=0.5
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/talks-bg-right.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/advanced
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"126-485114b0e28c0"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:34 GMT
+Last-Modified:Sun, 25 Apr 2010 15:27:07 GMT
+Content-Length:294
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/header-link HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Content-Location:header-link.gif
+Last-Modified:Wed, 23 Sep 2009 04:13:56 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Accept-Ranges:bytes
+Cache-Control:max-age=2592000
+ETag:"c0-47436f1862900;526efa6638f8f"
+Vary:negotiate,upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:25 GMT
+Content-Length:192
+TCN:choice
+Content-Type:image/gif; qs=0.5
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/Consortium/Member/Testimonial/Logo/20 HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Content-Location:20.gif
+Last-Modified:Tue, 19 May 2009 13:19:03 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Accept-Ranges:bytes
+Cache-Control:max-age=2592000
+ETag:"648-46a43c12abfc0;52bf3a1045bfb"
+Vary:negotiate,accept,upgrade-insecure-requests
+Expires:Mon, 02 May 2016 03:58:08 GMT
+Content-Length:1608
+TCN:choice
+Content-Type:image/gif; qs=0.5
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/talks-bg-left.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/advanced
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"141-485114b0e28c0"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:34 GMT
+Last-Modified:Sun, 25 Apr 2010 15:27:07 GMT
+Content-Length:321
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/category-bg.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/advanced
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"7b-485114b0e28c0"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:32 GMT
+Last-Modified:Sun, 25 Apr 2010 15:27:07 GMT
+Content-Length:123
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/header-link.gif HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"c0-47436f1862900"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:31 GMT
+Last-Modified:Wed, 23 Sep 2009 04:13:56 GMT
+Content-Length:192
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/gif; qs=0.5
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/logo-w3c-screen-lg HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/advanced
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Content-Location:logo-w3c-screen-lg.gif
+Last-Modified:Fri, 04 Sep 2009 03:28:44 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Accept-Ranges:bytes
+Cache-Control:max-age=2592000
+ETag:"38b1-472b818e43300;526efa6638f8f"
+Vary:negotiate,accept,upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 18:41:37 GMT
+Content-Length:14513
+TCN:choice
+Content-Type:image/gif; qs=0.5
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/category-bg-right.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/advanced
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"7b-485114b0e28c0"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:25 GMT
+Last-Modified:Sun, 25 Apr 2010 15:27:07 GMT
+Content-Length:123
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/logo-shadow HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Content-Location:logo-shadow.gif
+Last-Modified:Thu, 25 Nov 2010 08:18:07 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Accept-Ranges:bytes
+Cache-Control:max-age=2592000
+ETag:"e52-495dc3edf2dc0;526efa6638f8f"
+Vary:negotiate,accept,upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 16:16:12 GMT
+Content-Length:3666
+TCN:choice
+Content-Type:image/gif; qs=0.5
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/search-button HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Content-Location:search-button.gif
+Last-Modified:Thu, 25 Nov 2010 08:08:50 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Accept-Ranges:bytes
+Cache-Control:max-age=2592000
+ETag:"16f-495dc1dac0880;526efa6638f8f"
+Vary:negotiate,accept,upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 16:16:12 GMT
+Content-Length:367
+TCN:choice
+Content-Type:image/gif; qs=0.5
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/search-bg.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/advanced
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"5c-485114b0e28c0"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:32 GMT
+Last-Modified:Sun, 25 Apr 2010 15:27:07 GMT
+Content-Length:92
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/footer-shadow.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/advanced
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"2fee-4871d357c9100"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:32 GMT
+Last-Modified:Fri, 21 May 2010 16:30:28 GMT
+Content-Length:12270
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/calendar-sprite.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/advanced
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"8d9-485114b0e28c0"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:34 GMT
+Last-Modified:Sun, 25 Apr 2010 15:27:07 GMT
+Content-Length:2265
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/js/lang/strings.js HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Content-Location:strings.js.en
+Last-Modified:Wed, 31 Mar 2010 08:00:36 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Accept-Ranges:bytes
+Cache-Control:max-age=15552000
+ETag:"2a-4831424279100;48420d7221e80"
+Vary:negotiate,accept-language,upgrade-insecure-requests
+Expires:Sun, 25 Sep 2016 16:28:48 GMT
+Content-Length:42
+Content-Language:en
+TCN:choice
+Content-Type:application/javascript; charset=utf-8
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/talks-bg.png HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/2008/site/css/advanced
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=2592000
+ETag:"7b-485114b0e28c0"
+Vary:upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:34 GMT
+Last-Modified:Sun, 25 Apr 2010 15:27:07 GMT
+Content-Length:123
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/png; qs=0.7
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/ico-minus HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.w3c.org/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Content-Location:ico-minus.gif
+Last-Modified:Wed, 01 Apr 2009 19:46:24 GMT
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Accept-Ranges:bytes
+Cache-Control:max-age=2592000
+ETag:"b8-46683920e4400;526efa6638f8f"
+Vary:negotiate,upgrade-insecure-requests
+Expires:Thu, 28 Apr 2016 15:49:34 GMT
+Content-Length:184
+TCN:choice
+Content-Type:image/gif; qs=0.5
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.w3c.org/2008/site/images/favicon.ico HTTP/1.1
+Host: www.w3c.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+Cache-Control:max-age=31536000
+ETag:"1976-4de23364bc6c0"
+Vary:upgrade-insecure-requests
+Expires:Wed, 29 Mar 2017 15:49:22 GMT
+Last-Modified:Sun, 02 Jun 2013 03:12:03 GMT
+Content-Length:6518
+P3P:policyref="http://www.w3.org/2014/08/p3p.xml"
+Date:Sat, 02 Apr 2016 03:58:08 GMT
+Content-Type:image/vnd.microsoft.icon
+
+****************************************************
+
+
+HTTP Request Message:
+POST http://clients1.google.com/ocsp HTTP/1.1
+Host: clients1.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Length: 75
+Content-Type: application/ocsp-request
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 404 Not Found
+Server:ocsp_responder
+X-XSS-Protection:1; mode=block
+Content-Length:1565
+Date:Sat, 02 Apr 2016 04:01:29 GMT
+Content-Type:text/html; charset=UTF-8
+
+****************************************************
+
+
+HTTP Request Message:
+POST http://clients1.google.com/ocsp HTTP/1.1
+Host: clients1.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Length: 75
+Content-Type: application/ocsp-request
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 404 Not Found
+Server:ocsp_responder
+X-XSS-Protection:1; mode=block
+Content-Length:1565
+Date:Sat, 02 Apr 2016 04:01:29 GMT
+Content-Type:text/html; charset=UTF-8
+
+****************************************************
+
+
+HTTP Request Message:
+POST http://ocsp.digicert.com/ HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Length: 83
+Content-Type: application/ocsp-request
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+X-Cache:HIT
+Server:ECS (dfw/27A1)
+Etag:"4e35dea6-5"
+Cache-Control:no-cache
+Last-Modified:Sun, 31 Jul 2011 23:00:54 GMT
+Expires:Fri, 08 Apr 2016 16:03:57 GMT
+Content-Length:5
+Date:Sat, 02 Apr 2016 04:03:57 GMT
+Content-Type:application/ocsp-response
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+HTTP/1.1 200 OK
+Server:gws
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Sat, 02 Apr 2016 04:31:44 GMT
+Accept-Ranges:none
+X-Frame-Options:SAMEORIGIN
+Cache-Control:private, max-age=0
+Vary:Accept-Encoding
+Set-Cookie:NID=78=POkESSDYyqr-x3R-9xCVj7uy8kP2OKisIuQH5kjiOenDKr8hahazs-roWub0r0YbjfCWkpWm_lrQrov0LMfCEtSQdI3ExC-x0cLANbrdCFVH7mOBRIFGIXNsWZLd2sjsSVGKCwlNXOwNEA; expires=Sun, 02-Oct-2016 04:31:44 GMT; path=/; domain=.google.com; HttpOnly
+Expires:-1
+X-XSS-Protection:1; mode=block
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/icons/product/chrome-48.png HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Cache-Control:public, max-age=691200
+Server:sffe
+X-Content-Type-Options:nosniff
+Last-Modified:Mon, 02 Apr 2012 02:13:37 GMT
+Expires:Fri, 08 Apr 2016 13:09:21 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:1834
+Age:141744
+Date:Thu, 31 Mar 2016 13:09:21 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Server:sffe
+Cache-Control:private, max-age=31536000
+X-Content-Type-Options:nosniff
+Last-Modified:Thu, 03 Sep 2015 02:05:27 GMT
+Expires:Sat, 02 Apr 2016 04:31:45 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:5482
+Date:Sat, 02 Apr 2016 04:31:45 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1536&bih=754&ei=MEv_VpzvOMbJesv2p6gC HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=78=raeu8SmreG8jV_xZrxg5Yz_N5XBrvT20fR2jT8zrgWEkGDHX5x3okWVz5w0TryOM90mzdII61oGswSsMpCtUER731EVRsmc6teVgWiaa3s6ZEzVcrGinGIZAbsZdivzp; expires=Sun, 02-Oct-2016 04:31:45 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Sat, 02 Apr 2016 04:31:45 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/xjs/_/js/k=xjs.hp.en_US.JYNNhRR1vUI.O/m=sb_he,d/rt=j/d=1/t=zcms/rs=ACT90oGKeyuixW2vug5z6_hvD7hYKD06QA HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+HTTP/1.1 200 OK
+Server:sffe
+X-Content-Type-Options:nosniff
+Last-Modified:Wed, 30 Mar 2016 17:29:10 GMT
+Date:Wed, 30 Mar 2016 18:29:28 GMT
+Accept-Ranges:none
+Cache-Control:public, max-age=31536000
+Vary:Accept-Encoding
+Expires:Thu, 30 Mar 2017 18:29:28 GMT
+X-XSS-Protection:1; mode=block
+Age:208937
+Content-Type:text/javascript; charset=UTF-8
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/nav_logo229.png HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Server:sffe
+Cache-Control:private, max-age=31536000
+X-Content-Type-Options:nosniff
+Last-Modified:Thu, 03 Sep 2015 20:37:18 GMT
+Expires:Sat, 02 Apr 2016 04:31:45 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:17284
+Date:Sat, 02 Apr 2016 04:31:45 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://clients1.google.com/generate_204 HTTP/1.1
+Host: clients1.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 204 No Content
+Content-Length:0
+Date:Sat, 02 Apr 2016 04:31:45 GMT
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/nav_logo229.png HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Cookie: NID=73=HVXMR_cnXmSraR4Z4k7sWA96lFDosWti4bM4Vqiq1PuchMqBG2exJXO8yowsdX7zKKXYtr0E3Jao5dbCYcbqHBVgEKHcTo_xeBZRVGl6qdeJqsg1DgqpTbRnjU3ePAgkCNgSVEOAZ9m4d08O6Q; OGPC=5061451-1:5061821-4:5062028-10:; OGP=-5061451:-5061821:
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Server:sffe
+Cache-Control:private, max-age=31536000
+X-Content-Type-Options:nosniff
+Last-Modified:Thu, 03 Sep 2015 20:37:18 GMT
+Expires:Sat, 02 Apr 2016 04:31:45 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:17284
+Date:Sat, 02 Apr 2016 04:31:45 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+HTTP/1.1 200 OK
+Server:gws
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:38 GMT
+Accept-Ranges:none
+X-Frame-Options:SAMEORIGIN
+Cache-Control:private, max-age=0
+Vary:Accept-Encoding
+Set-Cookie:NID=89=bbL9L_9f1d4wTZjVcU-YcpGaNIaFwPWyXupjtvl3JSYj7uG9rprjz9xLzVL2utrrHkAEMMcFh2pxYULYsfb9S7OWD6_hiF1Ts2p336WN14FjL4_lhRaUNoYvRB_z9awnNBF5WO5bwGhglbc; expires=Fri, 28-Apr-2017 23:23:38 GMT; path=/; domain=.google.com; HttpOnly
+Expires:-1
+X-XSS-Protection:1; mode=block
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Server:sffe
+Cache-Control:private, max-age=31536000
+X-Content-Type-Options:nosniff
+Last-Modified:Thu, 03 Sep 2015 02:05:27 GMT
+Expires:Thu, 27 Oct 2016 23:23:38 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:5482
+Date:Thu, 27 Oct 2016 23:23:38 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/nav_logo229.png HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Server:sffe
+Cache-Control:private, max-age=31536000
+X-Content-Type-Options:nosniff
+Last-Modified:Thu, 03 Sep 2015 20:37:18 GMT
+Expires:Thu, 27 Oct 2016 23:23:39 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:17284
+Date:Thu, 27 Oct 2016 23:23:39 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=eowSWJWqG8K0jwSrt7DgDQ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=Z1-c8yeMPnXj7vIw0f6uUvQ9qnUoNCkIE4DTT42Cc7Fs7tf_EwyGIGXVBPAxpsiNHpyw5H7QZ7CXI26FjdbmdOEMEDrn8t0d65Am5wOi4DI07ztZ-n3Y3F54luunKbyQ; expires=Fri, 28-Apr-2017 23:23:39 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:39 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=eowSWJWqG8K0jwSrt7DgDQ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=yXd4puZdJ4Ut7Z1M53ljr7YLttciKXUnkYeqvnu24ClOCrl-EP6QlT7QZFFbvODB8hq0BeiPm4PGXsblGgNytFfWlzv_F6gf-TdsslilC4npiGnO7f6wb0r51ue2NPmC; expires=Fri, 28-Apr-2017 23:23:39 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:39 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/xjs/_/js/k=xjs.hp.en_US.y1Ww5_woifk.O/m=sb_he,d/rt=j/d=1/t=zcms/rs=ACT90oHUj97awodLSOQYpr0rkIsLnA8IdQ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+HTTP/1.1 200 OK
+Server:sffe
+X-Content-Type-Options:nosniff
+Last-Modified:Tue, 25 Oct 2016 20:34:46 GMT
+Date:Wed, 26 Oct 2016 21:10:37 GMT
+Accept-Ranges:none
+Cache-Control:public, max-age=31536000
+Vary:Accept-Encoding
+Expires:Thu, 26 Oct 2017 21:10:37 GMT
+X-XSS-Protection:1; mode=block
+Age:94382
+Content-Type:text/javascript; charset=UTF-8
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/branding/product/ico/googleg_lodp.ico HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+Accept-Ranges:none
+HTTP/1.1 200 OK
+Server:sffe
+Cache-Control:private, max-age=31536000
+X-Content-Type-Options:nosniff
+Vary:Accept-Encoding
+Last-Modified:Thu, 20 Aug 2015 15:33:28 GMT
+Expires:Thu, 27 Oct 2016 23:23:39 GMT
+X-XSS-Protection:1; mode=block
+Date:Thu, 27 Oct 2016 23:23:39 GMT
+Content-Type:image/x-icon
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=eowSWJWqG8K0jwSrt7DgDQ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=WVqeDGeksgE_tmG7qoAd3g7Bn0zc3BXxlyMhnTW08_8X29HP9g568BtCyaRcBHYbgaol0K_n42c77slut8WjjJ3ETxm8yO5vcEOi1HTeEDELC2LEQUnd62WqfXBsGkMD; expires=Fri, 28-Apr-2017 23:23:39 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:39 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=eowSWJWqG8K0jwSrt7DgDQ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=rd0MhOx0mqWk9962Tae0uASRR13W6FXKdlVXN-FkdP4hQI-3Q3SfHX-FsE5xlE85Hs4l3_WgoJ22aklyNAtIcja_L_fNxes-DIWtKdSSXJQvGUR0cu9MQx5xNs3NwVeF; expires=Fri, 28-Apr-2017 23:23:39 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:39 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=eowSWJWqG8K0jwSrt7DgDQ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=nH1V6D0mm2gdOa3UReSo2lN8nCGmqSi6tWUSehgTKWjX-IJhnFNzW5IYKbAGaCyySvczV6vwavExi8dQCZDcoOLvMbfVb3Sm2o4bTQnc9_mCjbbXZxUUgMxK0IlPftB1; expires=Fri, 28-Apr-2017 23:23:39 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:39 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=eowSWJWqG8K0jwSrt7DgDQ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=vyqf4zZSDcikQO543a2aDwipyPBkoMOLm2L4lyE5x3F6AYqLIjRGqlMVBiPIYBc7MZtVwS9pKHOHfQ1ILMG-Ud-ZTCmoZ_DElJZf-flzLRQUSHb0xHFE-CDywexmSkrA; expires=Fri, 28-Apr-2017 23:23:39 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:39 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=eowSWJWqG8K0jwSrt7DgDQ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=u9C7Y5NCudWD1qNa7KQQpcTDuvG1vbibmn1JxgdZAVtclYVo-7fKlDoZ7INt_NzTRwaD1ugtoeimHgY_8xnn9T6Hy4JCbRZUJcOtUAsbXCTGHNo8p09PJ7K2VK_bZE0U; expires=Fri, 28-Apr-2017 23:23:39 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:39 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=eowSWJWqG8K0jwSrt7DgDQ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=TaBLCgAtD6VhqB2Na7KagSWYailSaAPfz3GnNAEBYLPCou4OJEb3MX-u6z0DN2J8w1zg33NSCTsgkplbUkzvFg7d5HUw8lXxq9AWadvNPwiM-To5pDwOUJBf8OBBcqbm; expires=Fri, 28-Apr-2017 23:23:39 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:39 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=eowSWJWqG8K0jwSrt7DgDQ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=Ux6kmQBeNtmpujLsSUDHm_z89VrY2lx8_ggqufyYe_m3V5109OsPARQngX2q-SV1WxTJcO6PaTAd9govYGlB5Umx3F8dBIsCKKTShD4nrH3p6OgxvjjSKQuZsW1DELLQ; expires=Fri, 28-Apr-2017 23:23:39 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:39 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=eowSWJWqG8K0jwSrt7DgDQ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=MHtO7xkw9YmfVBWSC8UrGucEIs7PFpOuSlz34-6O6mH0uRr7z78J1wdpkXTDnbSr6mqXmfo0AZhFhhEk4aUpBLc4fvljocQuMlDlnoMyDm4CgDqplK5y8MkFfpNS4KLz; expires=Fri, 28-Apr-2017 23:23:39 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:39 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/branding/product/ico/googleg_lodp.ico HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+Accept-Ranges:none
+HTTP/1.1 200 OK
+Server:sffe
+Cache-Control:private, max-age=31536000
+X-Content-Type-Options:nosniff
+Vary:Accept-Encoding
+Last-Modified:Thu, 20 Aug 2015 15:33:28 GMT
+Expires:Thu, 27 Oct 2016 23:23:40 GMT
+X-XSS-Protection:1; mode=block
+Date:Thu, 27 Oct 2016 23:23:40 GMT
+Content-Type:image/x-icon
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+HTTP/1.1 200 OK
+Server:gws
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:46 GMT
+Accept-Ranges:none
+X-Frame-Options:SAMEORIGIN
+Cache-Control:private, max-age=0
+Vary:Accept-Encoding
+Set-Cookie:NID=89=xbf1DnfDPbG3shVS3J3ORGMh1QV72tjgdxa6NNbEgSm74xz80gxVR8sdX7JB558dVBXgC-KYbGlID-Pgk8i_CiDGOFOQf9Qmji2_mxcPFC-C2x5XWZZPHc-6ZaZ6MDjmaIg8JBdA8QPYAe8; expires=Fri, 28-Apr-2017 23:23:46 GMT; path=/; domain=.google.com; HttpOnly
+Expires:-1
+X-XSS-Protection:1; mode=block
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Server:sffe
+Cache-Control:private, max-age=31536000
+X-Content-Type-Options:nosniff
+Last-Modified:Thu, 03 Sep 2015 02:05:27 GMT
+Expires:Thu, 27 Oct 2016 23:23:46 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:5482
+Date:Thu, 27 Oct 2016 23:23:46 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/nav_logo229.png HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+HTTP/1.1 200 OK
+Server:sffe
+Cache-Control:private, max-age=31536000
+X-Content-Type-Options:nosniff
+Last-Modified:Thu, 03 Sep 2015 20:37:18 GMT
+Expires:Thu, 27 Oct 2016 23:23:46 GMT
+X-XSS-Protection:1; mode=block
+Content-Length:17284
+Date:Thu, 27 Oct 2016 23:23:46 GMT
+Content-Type:image/png
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=gowSWKuyG8a3jwS0r5vIBw HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=EkQ514t7oWUOETikLol4aZem_EZ8-VN8B21znd2sZmEcaVtfj-xgeoeNcvsf1AOGG9Js-Cb0U6UwlrSdVUO_ZRiaIafa9GVcMo5asrXs0b2blLn4E9-g8VIKMInSRKHm; expires=Fri, 28-Apr-2017 23:23:46 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:46 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/xjs/_/js/k=xjs.hp.en_US.y1Ww5_woifk.O/m=sb_he,d/rt=j/d=1/t=zcms/rs=ACT90oHUj97awodLSOQYpr0rkIsLnA8IdQ HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+HTTP/1.1 200 OK
+Server:sffe
+X-Content-Type-Options:nosniff
+Last-Modified:Tue, 25 Oct 2016 20:34:46 GMT
+Date:Wed, 26 Oct 2016 21:10:37 GMT
+Accept-Ranges:none
+Cache-Control:public, max-age=31536000
+Vary:Accept-Encoding
+Expires:Thu, 26 Oct 2017 21:10:37 GMT
+X-XSS-Protection:1; mode=block
+Age:94389
+Content-Type:text/javascript; charset=UTF-8
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/images/branding/product/ico/googleg_lodp.ico HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+HTTP Response Meassage:
+Transfer-Encoding:chunked
+Accept-Ranges:none
+HTTP/1.1 200 OK
+Server:sffe
+Cache-Control:private, max-age=31536000
+X-Content-Type-Options:nosniff
+Vary:Accept-Encoding
+Last-Modified:Thu, 20 Aug 2015 15:33:28 GMT
+Expires:Thu, 27 Oct 2016 23:23:46 GMT
+X-XSS-Protection:1; mode=block
+Date:Thu, 27 Oct 2016 23:23:46 GMT
+Content-Type:image/x-icon
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=gowSWKuyG8a3jwS0r5vIBw HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=y6FFjdO9F9i37DN3MkQxJXYTiYzde-aA-ceu0t3h2di-B8GU9ej6Uw-uvR3niAOFRAqRvsuPahfl3SC3M2UTz0jc6wfgxCg9JG8n1P3_-KrkAtvIlyixlX2yWl9rK59a; expires=Fri, 28-Apr-2017 23:23:47 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:47 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=gowSWKuyG8a3jwS0r5vIBw HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=esat4x07DQwZiseexysrSzUdTMLqJmkUVK0uVpqe6UMeJonLgYZ083PdKxXTqha6NuiR6Z1387wPID9Aom_Z6ayIwHzsHhNHtrHGRmxu7bo8H-A4NkJtqej9S-KS01bN; expires=Fri, 28-Apr-2017 23:23:47 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:47 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=gowSWKuyG8a3jwS0r5vIBw HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=HK6Y0_37wEIPNWu1L9KT1KVdNy3jwfcGcT-Xxc-UpMe912MiNdpHSj6fww5vzamvuIxnDY4sqZ84jrE4zkQncwlJt-OlVuIOmzqwxxsH2vT-ulyq7HmfNc9mGIoMcX5m; expires=Fri, 28-Apr-2017 23:23:47 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:47 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=gowSWKuyG8a3jwS0r5vIBw HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=FNNZzH50FJWu9E7Mawpz3tbBvI8v4i3SeY0sJCU0aVnXP5pa5lo9C3_Tm5lpdQoVOuV7U4jz5fgcQ2wmIOhQKCzFZiB8z0lKzHJr1tzSzvVYuCNJxQ8tlLkgmmMw3_bf; expires=Fri, 28-Apr-2017 23:23:47 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:47 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=gowSWKuyG8a3jwS0r5vIBw HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=UMVt46sy-kytnyZyRCLQpP4QbDLIgYe2A9MBtKO8W2w7HXi75cq5KeWi9ACYxKKNbkc3pGaF0kuEkIb9MALNuOn22G5zLYa_jBD8EW3BebXoxdN8cgX9s-F_dnXiYUhT; expires=Fri, 28-Apr-2017 23:23:47 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:47 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=gowSWKuyG8a3jwS0r5vIBw HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=TiVwEdlPovWgUT_RQr3rUAHIukTyoPJkmwE_UakrEzWVSmCONE-s0LSUnHqqqK9_rR7jeZeUYJvmjJ2ZxpHADaO5cZNpoxRfN3I9WrwFee8DNI59rA_cnBPLMFtoi_8C; expires=Fri, 28-Apr-2017 23:23:47 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:47 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=gowSWKuyG8a3jwS0r5vIBw HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=l_JzIAL3L0miY9tdAgKMWzviQFVLfyI59PSLnbhmxanRYqm9i1CRIdsfQvS6hcpWofrY-q5-_-PlO7eiXKOiNx02Azro7T6GJzvQYC-hTM4Fwhw44zUu03KDvV28P7A7; expires=Fri, 28-Apr-2017 23:23:47 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:47 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=gowSWKuyG8a3jwS0r5vIBw HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=uT6xOQhBHZHAeF93vTk5eFpHKas-1B1qmzTVYCWW3DHi5i5cbG-zVWQfXqMsNJdF7s7UL8w_JYMVMqYnKtelMBc4oBzxnp2YV9s0vUA6YRhqszSYMyRCvdajgLTNILa9; expires=Fri, 28-Apr-2017 23:23:47 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:47 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+GET http://www.google.com/client_204?&atyp=i&biw=1269&bih=620&ei=gowSWKuyG8a3jwS0r5vIBw HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.google.com/
+Connection: keep-alive
+
+HTTP Response Meassage:
+X-Frame-Options:SAMEORIGIN
+HTTP/1.1 204 No Content
+Server:gws
+Set-Cookie:NID=89=FmNcsQtCoYzESNS_n3G3atk0pDbFoS4pR0K95dULEwGkXLQx4zvaCSfxkPO_gha_NlmiSJRyybVqwQUTfu4vPrVWE1iW-g3_x1EVNzqwUuwDrob5kakPHgW2g364A7Km; expires=Fri, 28-Apr-2017 23:23:47 GMT; path=/; domain=.google.com; HttpOnly
+X-XSS-Protection:1; mode=block
+Content-Length:0
+P3P:CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Date:Thu, 27 Oct 2016 23:23:47 GMT
+Content-Type:text/html; charset=ISO-8859-1
+
+****************************************************
+
+
+HTTP Request Message:
+POST http://ocsp.digicert.com/ HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Length: 83
+Content-Type: application/ocsp-request
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+X-Cache:HIT
+Server:ECS (dfw/27FD)
+Etag:"4e35dea6-5"
+Cache-Control:no-cache
+Last-Modified:Sun, 31 Jul 2011 23:00:54 GMT
+Expires:Thu, 03 Nov 2016 11:26:04 GMT
+Content-Length:5
+Date:Thu, 27 Oct 2016 23:26:04 GMT
+Content-Type:application/ocsp-response
+
+****************************************************
+
+
+HTTP Request Message:
+POST http://ocsp.digicert.com/ HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Length: 83
+Content-Type: application/ocsp-request
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+X-Cache:HIT
+Server:ECS (dfw/27FD)
+Etag:"4e35dea6-5"
+Cache-Control:no-cache
+Last-Modified:Sun, 31 Jul 2011 23:00:54 GMT
+Expires:Thu, 03 Nov 2016 11:26:04 GMT
+Content-Length:5
+Date:Thu, 27 Oct 2016 23:26:04 GMT
+Content-Type:application/ocsp-response
+
+****************************************************
+
+
+HTTP Request Message:
+POST http://ocsp.digicert.com/ HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Length: 83
+Content-Type: application/ocsp-request
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+X-Cache:HIT
+Server:ECS (dfw/279D)
+Etag:"4e35dea6-5"
+Cache-Control:no-cache
+Last-Modified:Sun, 31 Jul 2011 23:00:54 GMT
+Expires:Thu, 03 Nov 2016 11:26:04 GMT
+Content-Length:5
+Date:Thu, 27 Oct 2016 23:26:04 GMT
+Content-Type:application/ocsp-response
+
+****************************************************
+
+
+HTTP Request Message:
+POST http://ocsp.digicert.com/ HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Length: 83
+Content-Type: application/ocsp-request
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+X-Cache:HIT
+Server:ECS (dfw/27A1)
+Etag:"4e35dea6-5"
+Cache-Control:no-cache
+Last-Modified:Sun, 31 Jul 2011 23:00:54 GMT
+Expires:Thu, 03 Nov 2016 11:26:04 GMT
+Content-Length:5
+Date:Thu, 27 Oct 2016 23:26:04 GMT
+Content-Type:application/ocsp-response
+
+****************************************************
+
+
+HTTP Request Message:
+POST http://ocsp.digicert.com/ HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Length: 83
+Content-Type: application/ocsp-request
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+X-Cache:HIT
+Server:ECS (dfw/27B2)
+Etag:"4e35dea6-5"
+Cache-Control:no-cache
+Last-Modified:Sun, 31 Jul 2011 23:00:54 GMT
+Expires:Thu, 03 Nov 2016 11:26:04 GMT
+Content-Length:5
+Date:Thu, 27 Oct 2016 23:26:04 GMT
+Content-Type:application/ocsp-response
+
+****************************************************
+
+
+HTTP Request Message:
+POST http://ocsp.digicert.com/ HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Length: 83
+Content-Type: application/ocsp-request
+Connection: keep-alive
+
+HTTP Response Meassage:
+Accept-Ranges:bytes
+HTTP/1.1 200 OK
+X-Cache:HIT
+Server:ECS (dfw/27FD)
+Etag:"4e35dea6-5"
+Cache-Control:no-cache
+Last-Modified:Sun, 31 Jul 2011 23:00:54 GMT
+Expires:Thu, 03 Nov 2016 11:28:04 GMT
+Content-Length:5
+Date:Thu, 27 Oct 2016 23:28:04 GMT
+Content-Type:application/ocsp-response
+
+****************************************************
+
+
